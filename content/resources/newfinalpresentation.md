@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-423-information-and-communication-technologies-in-community-development-spring-2004/1fe6cf5c8e06993f376511df2e56e35c_NewFinalPresentation.pdf
+file: /media/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/1fe6cf5c8e06993f376511df2e56e35c_NewFinalPresentation.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: NewFinalPresentation.pdf
 uid: 1fe6cf5c-8e06-993f-3765-11df2e56e35c

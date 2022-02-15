@@ -3,8 +3,12 @@ content_type: resource
 description: Part 2 of a thesis authored by a graduate of the Department of Urban
   Studies and Planning. This paper is an optional reading that should be useful in
   research for this class.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-423-information-and-communication-technologies-in-community-development-spring-2004/8b22f49d5020942a42b4633f1881e555_fraser37_66.pdf
+file: /media/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/8b22f49d5020942a42b4633f1881e555_fraser37_66.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: fraser37_66.pdf
 uid: 8b22f49d-5020-942a-42b4-633f1881e555
