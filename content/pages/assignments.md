@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: In addition to the nine assignments listed below, students are graded
+  on Participation, Reflection Journal entries and Sessions, comprising 10% of their
+  grade.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 42ea9fac-e3dc-3cff-6746-a3ad1efe41f5
 ---
@@ -69,7 +75,7 @@ Site Visit @ LCW
 Reflection
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment1))
+Assignment 1 ({{% resource_link 9e97c4e5-fb37-600c-1cca-631c75af93ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +100,7 @@ Guest Speakers
 IDAs
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 2a ([PDF]({{< baseurl >}}/resources/assignment2a))
+Assignment 2a ({{% resource_link 77fe5999-afaa-1186-090c-195f2767d814 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +124,7 @@ IDA Discussion (cont.)
 Data Collection Strategy
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 2b ([PDF]({{< baseurl >}}/resources/assignment2b))
+Assignment 2b ({{% resource_link c4954cf2-6d68-1754-646a-2ece7f346e3b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +256,7 @@ Reflection
 Discussion on Scenarios
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 3b ([PDF]({{< baseurl >}}/resources/assignment3b))
+Assignment 3b ({{% resource_link 26ff52e6-084a-9308-7832-4747e9eacbb1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +268,7 @@ Assignment 3b ([PDF]({{< baseurl >}}/resources/assignment3b))
 Discussion on Data
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 3a ([PDF]({{< baseurl >}}/resources/assignment3a))
+Assignment 3a ({{% resource_link a3f0fca0-1b31-5111-84b5-d71bec5d238a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +340,7 @@ Group Work
 RGI Steering Committee Meeting
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 4 ([PDF]({{< baseurl >}}/resources/assignment4))
+Assignment 4 ({{% resource_link cb6cb64f-0554-6211-be9e-4108343c4a2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -346,7 +352,7 @@ Assignment 4 ([PDF]({{< baseurl >}}/resources/assignment4))
 Final Presentation
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 5 ([PDF]({{< baseurl >}}/resources/assignment5))
+Assignment 5 ({{% resource_link 092a5d26-51a1-1a84-10c7-9d8863a1ce42 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -372,9 +378,9 @@ Reflection
  
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 6a ([PDF]({{< baseurl >}}/resources/assignment6a))  
+Assignment 6a ({{% resource_link f546540c-3363-8e29-2528-84954256b2ff "PDF" %}})  
   
-Assignment 6b ([PDF]({{< baseurl >}}/resources/assignment6b))
+Assignment 6b ({{% resource_link f864f8d5-27c7-56d1-94af-7be902c86697 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
