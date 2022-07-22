@@ -5,6 +5,7 @@ file: /courses/11-423-information-and-communication-technologies-in-community-de
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: c_newfinrep_3.pdf
 uid: a949ddc5-e171-95a6-52e3-6f05d5628fb1
 ---
 Example final project (Part 4).
-

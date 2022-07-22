@@ -5,6 +5,7 @@ file: /courses/11-423-information-and-communication-technologies-in-community-de
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment4.pdf
 uid: cb6cb64f-0554-6211-be9e-4108343c4a2d
 ---
 Instructions for Assignment 4.
-
