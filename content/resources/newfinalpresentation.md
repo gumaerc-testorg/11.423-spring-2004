@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/1fe6cf5c8e06993f376511df2e56e35c_NewFinalPresentation.pdf
+file_size: 1801204
 file_type: application/pdf
 learning_resource_types:
 - Projects
