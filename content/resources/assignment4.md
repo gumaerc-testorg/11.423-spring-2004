@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for Assignment 4.
 file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/cb6cb64f05546211be9e4108343c4a2d_assignment4.pdf
+file_size: 15679
 file_type: application/pdf
 learning_resource_types:
 - Assignments

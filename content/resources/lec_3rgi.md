@@ -3,6 +3,7 @@ content_type: resource
 description: Chart showing the organizational structure of the Reviviendo Gateway
   Initiative (RGI) in Lawrence, MA.
 file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/ce3e543a7dcdc6c5e6a600f8ba1f4463_lec_3rgi.pdf
+file_size: 377799
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
