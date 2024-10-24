@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/8ac6885602664014a0fa46a78f112813_fraser73_130.pdf
+file: /ol-ocw-studio-app/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/8ac6885602664014a0fa46a78f112813_fraser73_130.pdf
 file_size: 2121599
 file_type: application/pdf
 learning_resource_types: []
