@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example final project (Part 3).
-file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/4b31d80855fb5584f230bdb5b87c9db7_b_newfinrep_3.pdf
+file: /ol-ocw-studio-app/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/4b31d80855fb5584f230bdb5b87c9db7_b_newfinrep_3.pdf
 file_size: 840489
 file_type: application/pdf
 learning_resource_types:
