@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for Assignment 5.
-file: /ol-ocw-studio-app/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/092a5d2651a11a8410c79d8863a1ce42_assignment5.pdf
+file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/092a5d2651a11a8410c79d8863a1ce42_assignment5.pdf
 file_size: 13052
 file_type: application/pdf
 learning_resource_types:

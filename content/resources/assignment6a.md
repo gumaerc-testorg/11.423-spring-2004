@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for Assignment 6a.
-file: /ol-ocw-studio-app/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/f546540c33638e29252884954256b2ff_assignment6a.pdf
+file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/f546540c33638e29252884954256b2ff_assignment6a.pdf
 file_size: 15189
 file_type: application/pdf
 learning_resource_types:
