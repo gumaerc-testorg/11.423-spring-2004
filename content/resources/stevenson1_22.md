@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/d793538ffff317f733df9011cac93d03_stevenson1_22.pdf
+file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/d793538ffff317f733df9011cac93d03_stevenson1_22.pdf
 file_size: 1540292
 file_type: application/pdf
 learning_resource_types: []
