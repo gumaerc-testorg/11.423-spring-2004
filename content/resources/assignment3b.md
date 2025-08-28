@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for Assignment 3b.
-file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/26ff52e6084a930878324747e9eacbb1_assignment3b.pdf
+file: /ol-ocw-studio-app/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/26ff52e6084a930878324747e9eacbb1_assignment3b.pdf
 file_size: 12168
 file_type: application/pdf
 learning_resource_types:
